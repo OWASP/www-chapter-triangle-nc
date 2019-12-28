@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+
+* [Chris Romeo](mailto:chris.romeo@owasp.org)
+* [Steve Pinkham](mailto:steve.pinkham@owasp.org)
