@@ -22,10 +22,11 @@ The following are the list of orginizations who have generously supported the Tr
 <tr>
 <td>
 
-<img src="assets/images/iContact_logo.jpg" alt="iContact"/>
+<img src="assets/images/icontact_logo.jpg" alt="iContact"/>
 
 </td>
 </tr>
+</table>
 
 **Code of Conduct**:
 
