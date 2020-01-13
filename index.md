@@ -16,13 +16,18 @@ Meetup is the primary source for meeting information and signups. Please both si
 
 Meeting Sponsors
 ----------------
-The following are the list of orginizations who have generously supported the Triangle, NC chapter with meeting space:
+The following are the list of orginizations who have generously supported our chapter with meeting space:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
 
 <img src="assets/images/icontact_logo.jpg" alt="iContact"/>
+
+</td>
+<td>
+
+<img src="assets/images/pendo_logo.svg" alt="pendo"/>
 
 </td>
 </tr>
