@@ -1,21 +1,33 @@
 ---
 
 layout: col-sidebar
-title: OWASP triangle-nc
-tags: example-tag
+title: OWASP Triangle-NC
+tags: triangle-nc
 level: 4
 
 region: United States
 
 ---
+OWASP Triangle, NC
+-------------
+Welcome to the Triangle, North Carolina chapter homepage. The chapter board is <a href="chris.romeo@owasp.org">Chris Romeo</a>, <a href="mailto:steve.pinkham@owasp.org">Steve Pinkham</a> and Eric Hart. Follow chapter news on [Meetup.com](https://www.meetup.com/owasptriangle) and [Twitter](https://twitter.com/owasptriangle).
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Meetup is the primary source for meeting information and signups. Please both sign up and mark yourself as not coming if you change your mind, as it helps us plan for meeting logistics. Thank you!
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Meeting Sponsors
+----------------
+The following are the list of orginizations who have generously supported the Triangle, NC chapter with meeting space:
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+<img src="assets/images/iContact_logo.jpg" alt="iContact"/>
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+</td>
+</tr>
 
+**Code of Conduct**:
+
+
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://www.owasp.org/index.php/Governance/Conference_Policies>
