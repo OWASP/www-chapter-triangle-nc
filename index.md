@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Triangle-NC
 tags: triangle-nc
 
-region: United States
+region: North America
 
 ---
 Welcome to the Triangle, North Carolina chapter homepage. The chapter board is <a href="mailto:chris.romeo@owasp.org">Chris Romeo</a>, <a href="mailto:steve.pinkham@owasp.org">Steve Pinkham</a> and Eric Hart. Follow chapter news on [Meetup.com](https://www.meetup.com/owasptriangle) and [Twitter](https://twitter.com/owasptriangle).
