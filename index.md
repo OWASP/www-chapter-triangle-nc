@@ -14,6 +14,9 @@ Welcome to the Triangle, North Carolina chapter homepage. The chapter board is <
 
 Meetup is the primary source for meeting information and signups. Please both sign up and mark yourself as not coming if you change your mind, as it helps us plan for meeting logistics. Thank you!
 
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %};
+
 Meeting Sponsors
 ----------------
 The following are the list of organizations who have generously supported our chapter with meeting space:
