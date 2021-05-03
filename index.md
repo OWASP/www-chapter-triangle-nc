@@ -17,7 +17,7 @@ Meetup is the primary source for meeting information and signups. Please both si
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %};
 
-Meeting Sponsors
+Meeting Supporters
 ----------------
 The following are the list of organizations who have generously supported our chapter with meeting space:
 
