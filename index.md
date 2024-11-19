@@ -10,7 +10,7 @@ country: USA
 postal-code: 27560
 
 ---
-Welcome to the Triangle, North Carolina chapter homepage. The current chapter leaders are <a href="mailto:chris.romeo@owasp.org">Chris Romeo</a> and <a href="mailto:steve.pinkham@owasp.org">Steve Pinkham</a>. Follow chapter news on [Meetup.com](https://www.meetup.com/owasptriangle) and [Twitter](https://twitter.com/owasptriangle).
+Welcome to the Triangle, North Carolina chapter homepage. The current chapter leader is <a href="mailto:steve.pinkham@owasp.org">Steve Pinkham</a>. Follow chapter news on [Meetup.com](https://www.meetup.com/owasptriangle) and [Twitter](https://twitter.com/owasptriangle).
 
 Meetup is the primary source for meeting information and signups. Please both sign up and mark yourself as not coming if you change your mind, as it helps us plan for meeting logistics. Thank you!
 
