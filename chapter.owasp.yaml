@@ -1,0 +1,29 @@
+community:
+  - name: chapter-triangle_nc
+    platform: slack
+    url: https://owasp.slack.com/archives/C1HPEEF7B
+leaders:
+  - name: Steve Pinkham
+    email: steve.pinkham@owasp.org
+    github: spinkham
+  - name: Sean Varga
+    email: sean.varga@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: North Carolina
+  city: Triangle
+  postal_code: '27560'
+  latitude: 35.875259
+  longitude: -78.7751271
+meetup_group: owasptriangle
+name: OWASP Triangle-NC
+repositories:
+  - name: www-chapter-triangle-nc
+    url: https://github.com/OWASP/www-chapter-triangle-nc
+    description: OWASP Foundation Web Repository
+tags:
+  - triangle-nc
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-triangle-nc
