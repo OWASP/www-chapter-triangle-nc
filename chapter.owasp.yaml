@@ -8,6 +8,8 @@ leaders:
     github: spinkham
   - name: Sean Varga
     email: sean.varga@owasp.org
+  - name: Navneet Keshav
+    email: navneet.keshav@owasp.org
 location:
   country: USA
   country_code: US
