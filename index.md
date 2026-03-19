@@ -22,12 +22,11 @@ Please sign up at [Luma](https://luma.com/zi24f4rh) to help us plan!
 ​Speaker:
 Steve Myrick - Senior Manager, Product Security @ Marqeta
 
-With the volume of code and risks to businesses increasing with the growth of agentic development, threat modeling has never been more important than it is in 2026. In this talk, we’ll explore how the core principles of threat modeling - identifying assets, understanding threats, evaluating risks, and implementing mitigations
-- translate seamlessly between securing systems and making everyday risk-informed decisions.
+With the volume of code and risks to businesses increasing with the growth of agentic development, threat modeling has never been more important than it is in 2026. In this talk, we’ll explore how the core principles of threat modeling - identifying assets, understanding threats, evaluating risks, and implementing mitigations translate seamlessly between securing systems and making everyday risk-informed decisions.
 
 Attendees will learn to recognize the threat modeling they already practice in daily life and understand how formalizing these instincts creates more robust security strategies for applications and systems. We’ll cover a practical framework for explaining security decisions to both technical and non-technical stakeholders, as well as show how you can use open source tools to start threat modeling today.
 
-Steve bio:
+Steve's bio:
 I’m a hacker who leads other hackers to be the best version of themselves.
 
 Finding vulnerabilities is fun, but my true passion is crafting a security culture that my team members (and the engineers they serve) love.
