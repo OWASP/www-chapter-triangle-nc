@@ -5,7 +5,6 @@ title: OWASP Triangle-NC
 tags: triangle-nc
 
 region: North America
-meetup-group: owasptriangle
 country: USA
 postal-code: 27560
 
@@ -15,30 +14,15 @@ Welcome to the Triangle, North Carolina chapter homepage. The current chapter le
 LinkedIn is the primary source for meeting information. We are currently using Luma for meeting signups while OWASP is transitioning from Meetup. Please both sign up and mark yourself as not coming if you change your mind, as it helps us plan for meeting logistics. Thank you!
 
 ### Check our Events:
-April 16, 2026
-OWASP Triangle presents: Steve Myrick "You're Already Threat Modeling"
+September 16
+OWASP Triangle presents: James Berthoty on "Approaches to Securing Agentic Coding”'
 
-Please sign up at [Luma](https://luma.com/zi24f4rh) to help us plan!
+Please sign up at [Luma](https://luma.com/rmgus85s) to help us plan!
 
 ​Speaker:
-Steve Myrick - Senior Manager, Product Security @ Marqeta
+James Berthoty, Founder & Analyst @ Latio
 
-With the volume of code and risks to businesses increasing with the growth of agentic development, threat modeling has never been more important than it is in 2026. In this talk, we’ll explore how the core principles of threat modeling - identifying assets, understanding threats, evaluating risks, and implementing mitigations translate seamlessly between securing systems and making everyday risk-informed decisions.
-
-Attendees will learn to recognize the threat modeling they already practice in daily life and understand how formalizing these instincts creates more robust security strategies for applications and systems. We’ll cover a practical framework for explaining security decisions to both technical and non-technical stakeholders, as well as show how you can use open source tools to start threat modeling today.
-
-Steve's bio:
-I’m a hacker who leads other hackers to be the best version of themselves.
-
-Finding vulnerabilities is fun, but my true passion is crafting a security culture that my team members (and the engineers they serve) love.
-
-I'm also passionate about the security community, specifically conferences where I design/host CTFs and occasionally speak.
-
-Some past talks I've given:
-We Are The (Security) Champions - BSides RDU 2021
-Building a Free AppSec Pipeline - CackalackyCon 2023
-The LLM's Love Language: Protecting Your Systems from Promiscuous Prompts - BSides RDU 2023
-Da Bomb: Beyond Insanity - Automating Red Teaming using Atomics - CackalackyCon 2024 & SummerCon 2024
+AI code generating agents like Claude Code and Codex have changed how code is written, unlocking new opportunities and risks for businesses. Security teams are currently investing in two different areas: securing AI generated code and security for AI agents across their workforce. Most tools specialize in one or the other, with application security oriented tools focusing on secure code generation, and AI security tools focusing on securing agents themselves. In this talk, we'll cover current approaches that exist, as well as how to build a security approach that scales with AI usage.
 
 Meeting Supporters
 ----------------
