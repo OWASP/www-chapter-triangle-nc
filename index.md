@@ -14,7 +14,7 @@ Welcome to the Triangle, North Carolina chapter homepage. The current chapter le
 LinkedIn is the primary source for meeting information. We are currently using Luma for meeting signups while OWASP is transitioning from Meetup. Please both sign up and mark yourself as not coming if you change your mind, as it helps us plan for meeting logistics. Thank you!
 
 ### Check our Events:
-September 16
+September 16 2026  
 OWASP Triangle presents: James Berthoty on "Approaches to Securing Agentic Coding”'
 
 Please sign up at [Luma](https://luma.com/rmgus85s) to help us plan!
